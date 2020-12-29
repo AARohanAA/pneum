@@ -1,5 +1,5 @@
-gunicorn
-fastai
-torch
-flask_cors
 voila
+fastai=2.1.10
+pillow<7
+packaging
+ipywidgets==7.5.1
